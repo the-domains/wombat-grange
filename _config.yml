@@ -1,0 +1,14 @@
+layout_spectrum: 0.7203104
+typography_spectrum: 0.304505
+color:
+  saturation: 0.9187256
+  lightness: 0.1301334
+  brandStrength: 0.8088032
+  rhythmicContrast: 0.9606714
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Wombat Grange
